@@ -4,5 +4,5 @@ numpy
 pandas
 statsmodels
 seaborn
-pickle
+pickle==4.0
 gradio
